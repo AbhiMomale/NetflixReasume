@@ -1,0 +1,258 @@
+.d0{
+    margin-top: 16px;
+    background: #272838;
+    padding-bottom: 16px;
+}
+.d1{
+    width: 12%;
+}
+.d1 img{
+    width: 100%;
+}
+.d2 input{
+    border: none;
+}
+.d2 span{
+    border: 2px solid black;
+    justify-content: center;
+    display: flex;
+    margin-top: 40px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    margin-bottom: 16px;
+    margin-left: 33px;
+    border-radius: 23px;
+    background: white;
+}
+.d2 span i{
+    font-size: 21px;
+    margin-left: 202px;
+    margin-top: 2px;
+    color: red;
+}
+.mik{
+    padding-top: 59px;
+    font-size: 21px;
+    color: red;
+    margin-left: 14px;
+}
+.d3{
+    padding-top: 40px;
+}
+.d3 i{
+    padding-top: 21px;
+    padding-right: 40px;
+    font-size: 23px;
+    color: white;
+}
+.d4{
+    width: 19%;
+}
+.d4 img{
+    width: 100%;
+}
+.d5 i{
+    padding-top: 9px;
+    padding-right: 12px;
+    color: red;
+}
+.d5 a{
+    text-decoration: none;
+    color: white;
+}
+.d5{
+    border: 1px solid dimgray;
+    margin-left: 12px;
+    border-radius: 12px;
+    padding-left: 6px;
+    padding-right: 10px;
+    box-shadow: 11px 7px 8px 2px;
+    background-color: #3B3561;
+}
+.d5 h4{
+    font-size: 16px;
+    padding-top: 5px;
+    font-family: roboto;
+}
+.d5A{
+    padding-top: 15px;
+}
+.rit{
+    font-size: 21px;
+    margin-top: 7px;
+    color: red;
+}
+
+.d01{
+    background: #272838;
+    padding-bottom: 22px;
+}
+.d6{
+    margin-top: 23px;
+    margin-left: 8px;
+    background: #3E444A;
+    padding-top: 7px;
+    padding-bottom: 17px;
+    width: 32.333%;
+}
+.d6 h1{
+    font-family: roboto;
+    color: #ed0e0e;;
+    font-size: 2.2rem;
+}
+.d6 h5{
+    color: #da2525;
+    padding-right: 20px;
+    margin-top: -8px;
+    padding-bottom: 9px;
+}
+.d6 span {
+    border: 1px solid;
+    padding-left: 5px;
+    padding-right: 12px;
+    background: white;
+}
+.d6 span i{
+    padding-top: 6px;
+    font-size: 21px;
+}
+.d6 h6{
+    padding-left: 12px;
+    color: black;
+    font-family: roboto;
+    padding-top: 7px;
+}
+.d6 a{
+    text-decoration: none;
+    color: black;
+}
+.d7{
+    padding-top: 18px;
+    margin-left: 3px;
+}
+.d7 u{
+    font-family: roboto;
+    color: #c91f4d;
+}
+.d7 h4{
+    font-family: livvic;
+    font-weight: 300;
+    line-height: 1.3;
+    color: white;
+}
+.d03{
+    padding-top: 12px;
+    background: #272838;
+    padding-bottom: 12px;
+}
+.d03 h2{
+    font-family: roboto;
+    color: #c91f4d;
+}
+.d8{
+    background: #3E444A;
+    padding-top: 8px;
+    padding-left: 9px;
+    padding-bottom: 8px;
+    width: 24%;
+    margin: 0 auto;
+}
+.d8 h3{
+    font-family: roboto;
+    font-weight: 500;
+    color: white;
+}
+.d8 h5{
+    opacity: 0.3;
+    font-family: livvk;
+    color: white;
+}
+.d8 h4{
+    border: 2px solid white;
+    width: 24%;
+    border-left-width: 0px;
+    color: white;
+}
+.d8 i{
+    color: white;
+    font-size: 37px;
+}
+.a1{
+    margin-top: 67px;
+}
+.a2{
+    margin-top: 91px;
+}
+.a3{
+    margin-top: 66px;
+}
+.d9{
+    background: #3E444A;
+    padding-top: 8px;
+    padding-left: 9px;
+    padding-bottom: 8px;
+    width: 32.333%;
+    margin: 0 auto;
+}
+.d9 h3{
+    font-family: roboto;
+    font-weight: 500;
+    color: white;
+}
+.d9 i{
+    color: white;
+    font-size: 37px;
+}
+.d9 ul{
+    color: white;
+    font-family: livvk;
+    opacity: 0.8;
+    padding-top: 11px;
+}
+.d9 h6{
+    color: #f00;
+    padding-right: 5px;
+}
+.a4{
+    margin-top: 56px;
+}
+.a5{
+    margin-top: 125px;
+}
+
+.d04{
+    padding-top: 12px;
+    background: #272838;
+    padding-bottom: 12px;
+}
+.d04 h2{
+    font-family: roboto;
+    color: #cb0d0d;
+    padding-left: 19px;
+}
+.d10{
+    padding-top: 30px;
+    border: 1px solid aliceblue;
+    padding-left: 9px;
+    padding-bottom: 8px;
+    margin: 0 auto;
+}
+.d10 span i{
+    color:whitesmoke;
+    font-size: 37px;
+    padding-right: 20px;
+    opacity: 0.5;
+}
+.d10 ul{
+    font-family: livvki;
+    color: whitesmoke;
+}
+.d10 ul li a{
+    text-decoration: none;
+    color: white;
+}
+.skill{
+    font-family: roboto;
+    color: #cb0d0d;
+    padding-left: 19px;
+}
